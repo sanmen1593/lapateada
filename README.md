@@ -15,3 +15,4 @@ Aplicación web y móvil para apartado de canchas sintéticas. Los usuarios podr
 Desarrollado por:
 - [Santiago Mendoza Ramirez] (http://www.santiagomendoza.org)
 - [Gustavo Mendoza Ramirez] (http://www.alt-f4.info)
+- [Christian Duban] (https://www.facebook.com/dachiardi)
